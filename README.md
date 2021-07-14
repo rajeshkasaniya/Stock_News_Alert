@@ -19,7 +19,7 @@ In this project, we use three api –
 
 To make this project, we firstly make a necessary parameters file. In which we have our company name, 
 company symbol, Interval, price difference api related private information. Then we make two files, one 
-for Intraday and one for daily.
+for Intraday and one for daily. (For security, I hide api key's and mobile numbers by xxxx.)
 
 In our Intraday and daily files,
 1. we first import required module and then specify required stock parameters. 
